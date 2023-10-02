@@ -44,4 +44,4 @@ def yazi_tura():
     else:
         return "meow"
 
-client.run('MTE1NTU2Mjk1NzcwMzQ4MzU4Mg.G3Uooi.eLZOAKjD2-PRcv8wU5mP_AGBoZzaykBdwyhicg')
+client.run("token")
